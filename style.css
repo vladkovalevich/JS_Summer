@@ -1,0 +1,12 @@
+*{
+    background-image: url(./js-image.jpg);
+    align-items: center;
+}
+.title{
+    margin-left: 450px;
+    color:royalblue;
+    width: 25px;
+}
+.link{
+    color: skyblue;
+}

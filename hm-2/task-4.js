@@ -1,7 +1,10 @@
 const formatString = function(Mystring) {
-    if(Mystring > 40){
-      
+    if(Mystring.lenght > 40){
+      let LenghtBig = Mystring.lenght - 40;
+      SplitForm = Mystring.split("");
+      result = SplitForm - LenghtBig +"...";
     }
+    
   };
   
   /*
