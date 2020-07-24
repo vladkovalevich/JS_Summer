@@ -1,3 +1,4 @@
+//2
 function countProps(obj) {
     return Object.keys(obj).length;
 }

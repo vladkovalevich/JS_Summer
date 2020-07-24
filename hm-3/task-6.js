@@ -1,3 +1,4 @@
+//6
 function calculateTotalPrice(arr, productName) {
     let total = 0;
 

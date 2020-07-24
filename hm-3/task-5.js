@@ -1,3 +1,4 @@
+//5
 function getAllPropValues(arr, prop) {
     const values = [];
 

@@ -1,3 +1,4 @@
+//7
 const Transaction = {
     DEPOSIT: "deposit",
     WITHDRAW: "withdraw"
@@ -86,7 +87,7 @@ const account = {
             if (transaction.type === type) {
                 total += transaction.amount;
             }
-        }
+        } 
 
         return total;
     }

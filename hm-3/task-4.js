@@ -1,3 +1,4 @@
+//4
 function countTotalSalary(employees) {
     let total=0;
     for (const employee in employees) {
